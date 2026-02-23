@@ -1,0 +1,6 @@
+# Devasa goruntu veri setini yoksay
+chest_xray/
+ornek_rontgen.jpg
+
+# Python onbellek dosyalari
+__pycache__/
